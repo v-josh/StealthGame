@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#ignore lighting data asset
+assets/the\ great\ fleece/_scenes/learning/Environment_Finished/lightingdata.asset
