@@ -1489,7 +1489,7 @@ MonoBehaviour:
     value: 1
   preset:
     overrideState: 1
-    value: 2
+    value: 6
   maximumIterationCount:
     overrideState: 0
     value: 16
@@ -1501,10 +1501,10 @@ MonoBehaviour:
     value: 8
   maximumMarchDistance:
     overrideState: 1
-    value: 151
+    value: 1000
   distanceFade:
     overrideState: 0
-    value: 0.5
+    value: 0.227
   vignette:
     overrideState: 0
     value: 0.5
